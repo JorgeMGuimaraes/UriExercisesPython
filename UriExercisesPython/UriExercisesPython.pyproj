@@ -4,8 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>556f0c29-f859-4a5d-bcb2-10f743bb4a1b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>1010.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +21,72 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="1001.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1002.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1003.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1004.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1005.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1006.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1007.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1008.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1009.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1010.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1011.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1012.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1013.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1014.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1015.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1016.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1017.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1018.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1019.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1020.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1021.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1022.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="UriExercisesPython.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
