@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "UriExercisesPython", "UriExercisesPython\UriExercisesPython.pyproj", "{556F0C29-F859-4A5D-BCB2-10F743BB4A1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{556F0C29-F859-4A5D-BCB2-10F743BB4A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556F0C29-F859-4A5D-BCB2-10F743BB4A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8647C6B2-7D18-4929-B153-C8B607031DDB}
+	EndGlobalSection
+EndGlobal
