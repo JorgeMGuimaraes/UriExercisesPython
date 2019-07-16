@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>556f0c29-f859-4a5d-bcb2-10f743bb4a1b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1010.py</StartupFile>
+    <StartupFile>UriExercisesPython.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -87,7 +87,34 @@
     <Compile Include="1022.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="1172.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1173.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="1174.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1175.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1176.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1177.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1178.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1179.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="1180.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="2310.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="2547.py">
