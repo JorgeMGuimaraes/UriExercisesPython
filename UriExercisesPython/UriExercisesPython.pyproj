@@ -120,6 +120,9 @@
     <Compile Include="2547.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="2765.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="UriExercisesPython.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
